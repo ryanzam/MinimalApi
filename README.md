@@ -1,5 +1,5 @@
 # MinimalApi
-overview of minimal api project with dotnet6
+An overview of minimal api project with dotnet6
 
 
 
